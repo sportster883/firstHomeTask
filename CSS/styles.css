@@ -1,0 +1,30 @@
+body {
+        background-attachment: fixed;
+        background-image: url(../tmp698246709049819137.jpg); no-repeat center;
+        background-size: cover;
+    }
+
+.wrapper {
+        padding: 70px;
+        margin: 80px;
+        width: 480px;
+        background: #fff; margin: 0 auto;
+    }
+
+ol {
+        border-bottom: 2px solid black;
+    }
+
+.ul {
+    list-style-type: none;
+    }
+
+.ul {
+    text-decoration: none;
+    }
+
+.ul {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
